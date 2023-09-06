@@ -74,3 +74,4 @@ end
 gem "tailwindcss-rails", "~> 2.0"
 gem "httparty"
 gem "figaro"
+gem 'social-share-button'
